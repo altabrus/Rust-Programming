@@ -1,0 +1,1 @@
+C:\Users\althe\OneDrive\Desktop\Fall\ 2025\Rust\ Programming\daily_homework_5\target\debug\daily_homework_5.exe: C:\Users\althe\OneDrive\Desktop\Fall\ 2025\Rust\ Programming\daily_homework_5\src\main.rs
